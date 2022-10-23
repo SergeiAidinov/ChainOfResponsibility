@@ -51,6 +51,7 @@ class EquipmentTest {
         vacuumCleaner.acceptCommand(commandOptionalUnknown);
         vacuumCleaner.acceptCommand(commandOptionalWashMachOff);
         vacuumCleaner.acceptCommand(commandOptionalAirCondOff);
+        vacuumCleaner.acceptCommand(commandOptionalVacuumOff);
 
     }
 
